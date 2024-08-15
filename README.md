@@ -1,7 +1,8 @@
 ## Hi I'm Eudin,
 
-### What I do:
-- Currently working as an IT Consultant/Fulll Stack Web Application Developer at SSY.
+- Currently working as an **IT Consultant/Fulll Stack Web Application Developer** at SSY for a **Vessel Management System** project.
+- Worked at F3 Offshore as **IT Consultant/Fulll Stack Web Application Developer**.
+- Worked at Mittal Contracting as an **IT Support**.
 
 ### Stack:
 - ReactJs
@@ -22,6 +23,8 @@
 - Azure blob storage for file management.
 - Azure DevOps
 - Azure Portal
+
+### I just love to code, build, solve problems, and give solutions.
 
 
 
