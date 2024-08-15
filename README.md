@@ -1,6 +1,6 @@
 ## Hi I'm Eudin,
 
-- Currently working as an **IT Consultant/Fulll Stack Web Application Developer** at SSY for a **Vessel Management System** project where a users can store, retrieve, filter, download, present vessel data, and many more. 
+- Currently working as an **IT Consultant/Fulll Stack Web Application Developer** at SSY for a **Vessel Management System** project. 
 - Worked at F3 Offshore as **IT Consultant/Fulll Stack Web Application Developer**.
 - Worked at Mittal Contracting as an **IT Support**.
 
