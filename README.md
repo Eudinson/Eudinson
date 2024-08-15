@@ -10,6 +10,7 @@
 - Typescript
 - Redux, Redux Saga
 - PostgreSQL
+- SQL Server
 - MUI, CSS
 
 ### Knowledge & experience where I can help you with:
@@ -20,6 +21,7 @@
 - ReactJs deployment on Azure or other hosting platform like Netlify, Vercel, etc.
 - Postgres database deployment on Azure or Heroku.
 - Postgres database migration from Heroku to Azure.
+- Database backup and restore on Azure or Heroku.
 - Cloudinary integration.
 - Azure blob storage for file management.
 - Azure DevOps
