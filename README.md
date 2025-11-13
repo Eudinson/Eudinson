@@ -53,7 +53,7 @@ Azure • Heroku • Netlify • Vercel • Azure DevOps • Azure Blob Storage
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eudin_Uy-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eudin-uy)  
-[![GitHub](https://img.shields.io/badge/GitHub-eudinuy-black?logo=github)](https://github.com/eudinuy)
+[![GitHub](https://img.shields.io/badge/GitHub-eudinuy-black?logo=github)](https://github.com/Eudinson)
 
 ---
 
