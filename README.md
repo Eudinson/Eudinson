@@ -11,8 +11,8 @@ I love transforming ideas into code and continuously improving through learning 
 ---
 
 ### 💼 Experience
-
-- 🧑‍💻 **IT Consultant / Full Stack Developer** — *F3 Offshore*  
+- 🧑‍💻 **IT Consultant / Full Stack Developer** — *SSY Global*  
+- 🧑‍💻 **Full Stack Developer** — *F3 Offshore*  
 - 🧠 **IT Support Specialist** — *Mittal Contracting*
 
 ---
